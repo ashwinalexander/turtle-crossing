@@ -1,4 +1,4 @@
-# turtle-crossing :pickup_truck:	🐢 :pickup_truck: :pickup_truck: :pickup_truck: :pickup_truck:
+# Turtle Crossing :pickup_truck:	🐢 :pickup_truck: :pickup_truck: :pickup_truck: :pickup_truck:
 Python 100 Days of Code: Day 23
 
 Stream-of-conscious thoughts and questions while building: 
