@@ -9,8 +9,8 @@ Stream-of-conscious thoughts and questions while building:
 
 Overall post-development thoughts: 
 * Tweaking game mechanics is fun:
-  * sfsf
-  * sfsf
+  * Control how many cars are on screen at any point to tweak difficulty
+  * Spawns the cars randomly off-screen over an area exactly the size of the visible game area so the cars are evenly spaced and there is no car-free zone
 
 
 Key pieces of logic: 
