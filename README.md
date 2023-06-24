@@ -8,7 +8,8 @@ Stream-of-conscious thoughts and questions while building:
 * Get it to work quick and dirty and then improve upon performance because it is going to be hard to optimize for performance from the get-go
 
 Overall post-development thoughts: 
-* I did not expect this to be mind-bending but it 
+* Tweaking game mechanics is fun:
+** Neede    
 
 
 Key pieces of logic: 
