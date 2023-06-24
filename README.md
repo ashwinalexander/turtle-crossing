@@ -9,7 +9,8 @@ Stream-of-conscious thoughts and questions while building:
 
 Overall post-development thoughts: 
 * Tweaking game mechanics is fun:
-** Neede    
+  * sfsf
+  * sfsf
 
 
 Key pieces of logic: 
